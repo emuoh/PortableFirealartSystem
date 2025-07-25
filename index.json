@@ -1,0 +1,21 @@
+
+ {
+   "name": "Your Repository Name",
+   "author": "Your Name",
+   "url": "https://your-name.github.io/vpm-repo/index.json",
+   "packages": {
+     "com.your-name.my-gimmick": {
+       "versions": {
+         "1.0.0": {
+           "name": "com.your-name.my-gimmick",
+           "displayName": "My Awesome Gimmick",
+           "version": "1.0.0",
+           "vpmDependencies": {
+             "com.vrchat.modular-avatar": "1.8.x"
+           }
+           // "url"フィールドを記載しない！
+         }
+       }
+     }
+   }
+ }
