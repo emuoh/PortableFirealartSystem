@@ -2,7 +2,7 @@
  {
    "name": "PortableFirealarmSystem",
    "author": "emuoh",
-   "url": ""https://your-name.github.io/vpm-repo/index.json"",
+   "url": "https://emuoh.github.io/vpm-repo/index.json",
    "packages": {
      "com.emuoh.PortableFireAlarmSystem": {
        "versions": {
