@@ -13,7 +13,7 @@
            "vpmDependencies": {
            "com.vrchat.modular-avatar": "1.13.0",
            "com.anatawa12.avatar-optimizer": "1.8.12",
-           "net.rs64.tex-trans-tool": "1.0.0",
+           "net.rs64.tex-trans-tool": "1.0.0"
            }
          }
        }
