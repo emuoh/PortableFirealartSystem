@@ -1,19 +1,20 @@
 
  {
-   "name": "Your Repository Name",
-   "author": "Your Name",
-   "url": "https://your-name.github.io/vpm-repo/index.json",
+   "name": "PortableFirealarmSystem",
+   "author": "emuoh",
+   "url": "https://emuoh.github.io/vpm-repo/index.json",
    "packages": {
-     "com.your-name.my-gimmick": {
+     "com.emuoh.PortableFireAlarmSystem": {
        "versions": {
          "1.0.0": {
-           "name": "com.your-name.my-gimmick",
-           "displayName": "My Awesome Gimmick",
+           "name": "com.emuoh.PortableFireAlarmSystem",
+           "displayName": "Portable Fire AlarmSystem",
            "version": "1.0.0",
            "vpmDependencies": {
-             "com.vrchat.modular-avatar": "1.8.x"
+           "com.vrchat.modular-avatar": "1.13.0",
+           "com.anatawa12.avatar-optimizer": "1.8.12",
+           "net.rs64.tex-trans-tool": "1.0.0",
            }
-           // "url"フィールドを記載しない！
          }
        }
      }
